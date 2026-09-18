@@ -1,0 +1,7 @@
+n=5
+# id chegada cpu
+P1 0 7
+P2 1 5
+P3 2 1
+P4 4 4
+P5 6 6
